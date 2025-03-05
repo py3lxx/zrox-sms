@@ -36,7 +36,7 @@ python app.py
 
 ## Canlı Demo
 
-Site yakında yayında olacaktır. (Yayinlandi! Site Ismi zrox.fun(Siteye Girerken chrome://net-internals/#hsts buna girip 3 kisma zrox.fun yaz.)) 
+Site yakında yayında olacaktır. (Yayinlandi! zrox.fun) 
 
 ## Lisans
 
